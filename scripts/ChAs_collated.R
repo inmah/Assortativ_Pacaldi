@@ -1,5 +1,5 @@
 #ChAs orginal scripts from VP
-#Modified and collated by KC
+#Modified and collated by Kat Cheung
 #Calculates ChAs of chromatin features, prepares 3D data and overlaps with features
 #This script first processes binarised ChIP-seq and then PCHiC, HiCap and ChiA-PET
 #Once processed, can generate plots
